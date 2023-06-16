@@ -72,4 +72,7 @@ int main() {
 		cout << "Masukkan pilihan (1-4): ";
 		cin >> ch;
 		switch (ch)
-	
+		{
+		case '1':
+			s.push();
+			break;
