@@ -93,3 +93,13 @@ int main() {
 		{
 			exit(0);
 		}
+		break;
+
+		default:
+		{
+			cout << "\nInvalid Choice." << endl;
+		}
+		break;
+		}
+	}
+}
