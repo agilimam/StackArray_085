@@ -89,3 +89,7 @@ int main() {
 			s.display();
 			break;
 
+		case '4':
+		{
+			exit(0);
+		}
